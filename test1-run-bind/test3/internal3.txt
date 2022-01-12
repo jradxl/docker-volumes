@@ -1,0 +1,4 @@
+-e Written by docker-entrypoint.sh 3
+-e Written by docker-entrypoint.sh 3
+-e Written by docker-entrypoint.sh 3
+-e Written by docker-entrypoint.sh 3
